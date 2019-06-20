@@ -25,10 +25,6 @@
 		8472D2F91EED3C5F00E81232 /* Alamofire.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8472D2F71EED3C5400E81232 /* Alamofire.framework */; };
 		8472D2FA1EED3C6300E81232 /* Alamofire.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8472D2F31EED3C5400E81232 /* Alamofire.framework */; };
 		8472D2FB1EED3C6A00E81232 /* Alamofire.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8472D2EF1EED3C5400E81232 /* Alamofire.framework */; };
-		84A389C52233CCC200A0A66A /* keypathArray.json in Resources */ = {isa = PBXBuildFile; fileRef = 84A389BA2233CCC200A0A66A /* keypathArray.json */; };
-		84A389C62233CCC200A0A66A /* keypathObject.json in Resources */ = {isa = PBXBuildFile; fileRef = 84A389BB2233CCC200A0A66A /* keypathObject.json */; };
-		84A389C72233CCC200A0A66A /* object.json in Resources */ = {isa = PBXBuildFile; fileRef = 84A389BC2233CCC200A0A66A /* object.json */; };
-		84A389CB2233D9F500A0A66A /* emptyKeypath.json in Resources */ = {isa = PBXBuildFile; fileRef = 84A389CA2233D9F500A0A66A /* emptyKeypath.json */; };
 		84A8C8501EED2F2700AB31BE /* CodableAlamofire.h in Headers */ = {isa = PBXBuildFile; fileRef = 84A8C84D1EED2F0C00AB31BE /* CodableAlamofire.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		84A8C8511EED2F2700AB31BE /* CodableAlamofire.h in Headers */ = {isa = PBXBuildFile; fileRef = 84A8C84D1EED2F0C00AB31BE /* CodableAlamofire.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		84A8C8521EED2F2800AB31BE /* CodableAlamofire.h in Headers */ = {isa = PBXBuildFile; fileRef = 84A8C84D1EED2F0C00AB31BE /* CodableAlamofire.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -608,10 +604,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				84A389C72233CCC200A0A66A /* object.json in Resources */,
-				84A389C52233CCC200A0A66A /* keypathArray.json in Resources */,
-				84A389CB2233D9F500A0A66A /* emptyKeypath.json in Resources */,
-				84A389C62233CCC200A0A66A /* keypathObject.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
